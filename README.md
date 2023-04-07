@@ -12,7 +12,7 @@
 
 <p align="center">
 	<a href="https://github.com/Quinn0519" class="rich-diff-level-one">
-		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Quinn0519&show_icons=true&langs_count=10&layout=compact" alt="Charmve's Stats" >
+		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Quinn0519&show_icons=true&langs_count=10&layout=compact&exclude_repo=Quinn0519.github.io,Quinn0519,blog-img,epidemic_COVID-19" alt="Charmve's Stats" >
 	</a>
 </p>
 
